@@ -1,0 +1,6 @@
+#root {
+  display: grid;
+  grid-template-rows: 1.5fr 8.5fr;
+  height: 100vh;
+  font-family: "Mukta", sans-serif;
+}

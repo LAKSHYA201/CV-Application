@@ -1,0 +1,9 @@
+.pageHeader {
+  grid-row: 1/2;
+  background-color: rgb(0, 82, 169);
+  color: white;
+  letter-spacing: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
